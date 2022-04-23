@@ -1,3 +1,0 @@
-﻿Module DbControl
-
-End Module
