@@ -21,15 +21,37 @@ namespace OpenExam
 
 		public void ScienceQ()
 		{
+			//LOCAL VARIABLES
+			string answer1;
+			string answer2;
+			
+			
+
+
 			Console.WriteLine("\t\t1.\tWhat is the unit of power?");
 			Console.WriteLine("\t\tA.\tdecibel");
 			Console.WriteLine("\t\tB.\tpower");
 			Console.WriteLine("\t\tC.\twatt");
 			Console.WriteLine("\t\tD.\tamps");
 
-			Console.Write("\t\t");
-			char answer1 = Convert.ToChar(Console.ReadLine());
-			
+			try
+			{
+				Console.Write("\t\t");
+				answer1 = Convert.ToString(Console.ReadLine());
+				
+			}
+			catch (Exception)
+			{
+				Console.Beep();
+				Console.WriteLine("	Error retry");
+				Console.Write("\t\t");
+				answer1 = Convert.ToString(Console.ReadLine());
+
+
+			}
+
+
+
 			Console.WriteLine("\n");
 
 			Console.WriteLine("\t\t2.\tWhat is the capital city of Kuwait?");
@@ -38,13 +60,30 @@ namespace OpenExam
 			Console.WriteLine("\t\tC.\tKuwait City");
 			Console.WriteLine("\t\tD.\tCairo");
 			Console.Write("\t\t");
-			char answer2 = Convert.ToChar(Console.ReadLine());
-			
-			Console.WriteLine("\n");
+
+			try
+			{
+				Console.Write("\t\t");
+				answer2 = Convert.ToString(Console.ReadLine());
+				
+
+			}
+			catch (Exception)
+			{
+				Console.Beep();
+				Console.WriteLine("	Error retry");
+				Console.Write("\t\t");
+				answer2 = Convert.ToString(Console.ReadLine());
+
+			}
+
+			//char answer2 = Convert.ToChar(Console.ReadLine());
+
+			//Console.WriteLine("\n");
 
 
 
-			if (answer1 == 'c' || answer1 == 'C')
+			if (answer1 == "c" || answer1 == "C")
 			{
 				//Console.WriteLine("!\t\tNumber 1 your answer {0} is correct", answer1);
 				count += 1;
@@ -54,7 +93,7 @@ namespace OpenExam
 				Console.WriteLine("\t\tNumber 1 your answer {0} is wrong", answer1);
 			}
 
-			if (answer2 == 'c' || answer2 == 'C')
+			if (answer2 == "c" || answer2 == "C")
 			{
 				//Console.WriteLine("\t\tNumber 2 your answer {0} is correct", answer2);
 				count += 1;
@@ -99,3 +138,4 @@ namespace OpenExam
 		}
 	}
 }
+
