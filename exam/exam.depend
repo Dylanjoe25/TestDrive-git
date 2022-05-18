@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1652459896 source:c:\users\phumulo\downloads\exam\src\maths.cpp
+	"Maths.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1652460352 c:\users\phumulo\downloads\exam\include\maths.h
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<fstream>
+	"Maths.h"
+	<ostream>
+
+1652815505 source:c:\users\phumulo\downloads\exam\main.cpp
+	<cstdio>
+	<string>
+	<cstdlib>
+	<iostream>
+	<windows.h>
+	<manipulations.h>
+	<iomanip>
+	<fstream>
+	"html1.h"
+	"category.h"
+	"AgricultureGrade5Test1.h"
+	"scienceGrade3Paper2.h"
+	"validateInputAnswers.h"
+	"answersDefinition.h"
+
+1652661895 c:\users\phumulo\downloads\exam\category.h
+
+1652464088 c:\users\phumulo\downloads\exam\sciencegrade3paper1.h
+
+1652231026 c:\users\phumulo\downloads\exam\validateinputanswers.h
+
+1652232421 c:\users\phumulo\downloads\exam\answersdefinition.h
+
+1652458897 source:c:\users\phumulo\downloads\exam\src\science.cpp
+	"Science.h"
+
+1652459126 c:\users\phumulo\downloads\exam\include\science.h
+
+1652459024 source:c:\users\phumulo\downloads\exam\src\science1.cpp
+	"Science1.h"
+
+1652459024 c:\users\phumulo\downloads\exam\include\science1.h
+
+1652474935 c:\users\phumulo\downloads\exam\sciencegrade3paper2.h
+
+1652579353 c:\users\phumulo\downloads\exam\englishgrade3paper1.h
+
+1652581226 c:\users\phumulo\downloads\exam\html1.h
+
+1652837584 c:\users\phumulo\downloads\exam\agriculturegrade5test1.h
+
+1652671346 c:\users\phumulo\downloads\exam\validateuser.h
+
+1652676557 c:\users\phumulo\downloads\exam\validateusers.h
+

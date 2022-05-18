@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="answersDefinition.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="192" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="115567" topLine="3968" />
+		</Cursor>
+		<Folding>
+			<Collapse line="201" />
+			<Collapse line="224" />
+			<Collapse line="308" />
+			<Collapse line="343" />
+			<Collapse line="377" />
+			<Collapse line="412" />
+			<Collapse line="446" />
+			<Collapse line="481" />
+			<Collapse line="516" />
+			<Collapse line="550" />
+			<Collapse line="573" />
+			<Collapse line="609" />
+			<Collapse line="657" />
+			<Collapse line="681" />
+			<Collapse line="692" />
+			<Collapse line="726" />
+			<Collapse line="750" />
+			<Collapse line="761" />
+			<Collapse line="784" />
+			<Collapse line="832" />
+			<Collapse line="867" />
+			<Collapse line="901" />
+			<Collapse line="924" />
+			<Collapse line="960" />
+			<Collapse line="1008" />
+			<Collapse line="1043" />
+			<Collapse line="1077" />
+			<Collapse line="1112" />
+			<Collapse line="1146" />
+			<Collapse line="1181" />
+			<Collapse line="1216" />
+			<Collapse line="1250" />
+			<Collapse line="1273" />
+			<Collapse line="1309" />
+			<Collapse line="1357" />
+			<Collapse line="1392" />
+			<Collapse line="1426" />
+			<Collapse line="1461" />
+			<Collapse line="1484" />
+			<Collapse line="1531" />
+			<Collapse line="1566" />
+			<Collapse line="1600" />
+			<Collapse line="1623" />
+			<Collapse line="1659" />
+			<Collapse line="1708" />
+			<Collapse line="1742" />
+			<Collapse line="1776" />
+			<Collapse line="4861" />
+		</Folding>
+	</File>
+	<File name="Answers.txt" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="validateInputAnswers.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="trush.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="agricultureGrade5Test1.h" open="1" top="1" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8384" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Maths.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="105" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="html1.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8350" topLine="24" />
+		</Cursor>
+	</File>
+	<File name="category.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="164" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
